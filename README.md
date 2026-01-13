@@ -54,7 +54,7 @@ all files.
 
 ```yaml
 - repo: https://github.com/Lucas-C/pre-commit-hooks
-  rev: v1.5.5
+  rev: v1.5.6
   hooks:
     - id: forbid-crlf  # Forbid files containing CRLF end-lines to be committed
     - id: remove-crlf  # Replace CRLF end-lines by LF ones before committing
